@@ -23,4 +23,5 @@ If you don't have these prerequisites already, follow the steps in the [Quicksta
 
 1. [Deploy Model](./03.DeployModel.md)
 
+1. [Exercise](./04.Exercise.md)
 
