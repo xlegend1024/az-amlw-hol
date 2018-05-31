@@ -10,10 +10,17 @@ Original documents are here:
 If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/free/?WT.mc_id=A261C142F) before you begin.
 
 To complete this tutorial, you must have:
+- Azure subscription with contributor role of a subscription or owner role of a resource group
+- Data Science Virtual Machine with D4s v3 size or higher 
+    - Install docker on the DSVM
+    - Install Azure Machine Learning Workbench 
 - An Azure Machine Learning Experimentation account
-- Azure Machine Learning Workbench installed
 
-If you don't have these prerequisites already, follow the steps in the [Quickstart: Install and start](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation) article to set up your accounts and install the Azure Machine Learning Workbench application. 
+If you don't have these prerequisites already, follow the steps:
+
+1. [Create DSVM for Windows Server](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm#create-your-microsoft-data-science-virtual-machine)
+2. [Create a project in Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#create-azure-machine-learning-services-accounts)
+3. [Install Machine Learning Worksbench](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#install-and-log-in-to-workbench)
 
 ## Agenda
 
