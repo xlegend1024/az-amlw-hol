@@ -13,10 +13,8 @@ To complete this tutorial, you must have:
 
 If you don't have these prerequisites already, follow the steps:
 
-1. [Create DSVM for Windows Server](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm#create-your-microsoft-data-science-virtual-machine)
-2. [Create Azure Machine Learning services accounts](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#create-azure-machine-learning-services-accounts)
-3. [Create a project in Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#create-azure-machine-learning-services-accounts)
-4. [Install Machine Learning Worksbench](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#install-and-log-in-to-workbench)
+1. [Create a project in Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#create-azure-machine-learning-services-accounts)
+1. [Install Machine Learning Worksbench](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#install-and-log-in-to-workbench)
 
 ## Check list
 
@@ -33,6 +31,13 @@ If you don't have these prerequisites already, follow the steps:
 
 
 ## Hand on lab agenda
+
+1. [Create DSVM for Windows Server](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm#create-your-microsoft-data-science-virtual-machine)
+
+    Create a VM for Data Science lab. Understand basic Azure Ser
+
+1. [Create Azure Machine Learning services accounts](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#create-azure-machine-learning-services-accounts)
+
 
 1. [Create New Project](./01.CreateNewProject.md)
 
