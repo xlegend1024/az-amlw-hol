@@ -30,12 +30,18 @@ If you don't have these prerequisites already, follow the steps:
 
 ## Hand on lab agenda
 
-1. [Create DSVM for Windows Server](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm#create-your-microsoft-data-science-virtual-machine)
+1. [Create DSVM for Windows Server](./01.CreateDSVM.md)
 
-    Create a VM for Data Science lab.
+
+1. [Install Docker for Windows](./02.InstallDocker.md)
+
+
+1. [Install Azure Machine Learning Workbench](./04.InstallAzureMLWorkbench.md)
+
 
 1. [Create Azure Machine Learning services accounts](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#create-azure-machine-learning-services-accounts)
 
+    Create Azure Machine Learning Experiment services and Model Management Services
 
 1. [Create New Project](./01.CreateNewProject.md)
 
