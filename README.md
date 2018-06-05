@@ -30,23 +30,23 @@ If you don't have these prerequisites already, follow the steps:
 
 ## Hand on lab agenda
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/01.CreateDSVM.md">Create DSVM for Windows Server</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/01.CreateDSVM.md" target="_blank">Create DSVM for Windows Server</a>
 
-1. <a herf="https://github.com/xlegend1024/az-amlw-hol/blob/master/02.InstallDocker.md">Install Docker for Windows</a>
+1. <a herf="https://github.com/xlegend1024/az-amlw-hol/blob/master/02.InstallDocker.md" target="_blank">Install Docker for Windows</a>
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/03.InstallAzureMLWorkbench.md">Install Azure Machine Learning Workbench</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/03.InstallAzureMLWorkbench.md" target="_blank">Install Azure Machine Learning Workbench</a>
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/04.CreateAZMLServices.md">Create Azure Machine Learning services accounts</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/04.CreateAZMLServices.md" target="_blank">Create Azure Machine Learning services accounts</a>
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/05.CreateNewProject.md">Create New Project</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/05.CreateNewProject.md" target="_blank">Create New Project</a>
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/06.ModelSelection.md">Model Selection</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/06.ModelSelection.md" target="_blank">Model Selection</a>
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/07.DeployModel.md"Deploy Model</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/07.DeployModel.md"  target="_blank">Deploy Model</a>
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/08.pySpark.md">Exercise</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/08.pySpark.md" target="_blank">Exercise</a>
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/99.Cleanup.md">Clenaup</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/99.Cleanup.md" target="_blank">Clenaup</a>
 
 ## Original documents are here:
 1. https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-1
