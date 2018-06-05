@@ -26,15 +26,13 @@ If you don't have these prerequisites already, follow the steps:
     - Size: D4sV3 or higher
     - Docker installed
     - ML Workbench installed
-- Client
-    - Windows 10 with build 18xx or higher
 
 
 ## Hand on lab agenda
 
 1. [Create DSVM for Windows Server](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm#create-your-microsoft-data-science-virtual-machine)
 
-    Create a VM for Data Science lab. Understand basic Azure Ser
+    Create a VM for Data Science lab.
 
 1. [Create Azure Machine Learning services accounts](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#create-azure-machine-learning-services-accounts)
 
