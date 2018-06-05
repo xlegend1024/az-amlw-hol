@@ -30,24 +30,24 @@ If you don't have these prerequisites already, follow the steps:
 
 ## Hand on lab agenda
 
-1. [Create DSVM for Windows Server](./01.CreateDSVM.md){:target="_blank"}
+1. [Create DSVM for Windows Server](./01.CreateDSVM.md)
 
 
-1. [Install Docker for Windows](./02.InstallDocker.md){:target="_blank"}
+1. [Install Docker for Windows](./02.InstallDocker.md)
 
 
-1. [Install Azure Machine Learning Workbench](./03.InstallAzureMLWorkbench.md){:target="_blank"}
+1. [Install Azure Machine Learning Workbench](./03.InstallAzureMLWorkbench.md)
 
 
-1. [Create Azure Machine Learning services accounts](04.CreateAZMLService.md){:target="_blank"}
+1. [Create Azure Machine Learning services accounts](04.CreateAZMLService.md)
 
-1. [Create New Project](./05.CreateNewProject.md){:target="_blank"}
+1. [Create New Project](./05.CreateNewProject.md)
 
-1. [Model Selection](./06.ModelSelection.md){:target="_blank"}
+1. [Model Selection](./06.ModelSelection.md)
 
-1. [Deploy Model](./07.DeployModel.md){:target="_blank"}
+1. [Deploy Model](./07.DeployModel.md)
 
-1. [Exercise](./08.Exercise.md){:target="_blank"}
+1. [Exercise](./08.Exercise.md)
 
 1. [Clenaup](./99.Cleanup.md)
 
