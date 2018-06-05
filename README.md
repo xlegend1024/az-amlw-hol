@@ -27,7 +27,7 @@ To complete this tutorial, you must have:
 
 1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/01.CreateDSVM.md" target="_blank">Create DSVM for Windows Server</a>
 
-1. <a herf="https://github.com/xlegend1024/az-amlw-hol/blob/master/02.InstallDocker.md" target="_blank">Install Docker for Windows</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/02.InstallDocker.md" target="_blank">Install Docker for Windows</a>
 
 1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/03.InstallAzureMLWorkbench.md" target="_blank">Install Azure Machine Learning Workbench</a>
 
