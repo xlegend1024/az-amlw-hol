@@ -36,28 +36,30 @@ If you don't have these prerequisites already, follow the steps:
 1. [Install Docker for Windows](./02.InstallDocker.md)
 
 
-1. [Install Azure Machine Learning Workbench](./04.InstallAzureMLWorkbench.md)
+1. [Install Azure Machine Learning Workbench](./03.InstallAzureMLWorkbench.md)
 
 
-1. [Create Azure Machine Learning services accounts](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-installation#create-azure-machine-learning-services-accounts)
+1. [Create Azure Machine Learning services accounts](04.CreateAZMLService.md)
 
     Create Azure Machine Learning Experiment services and Model Management Services
 
-1. [Create New Project](./01.CreateNewProject.md)
+1. [Create New Project](./05.CreateNewProject.md)
 
     Create a Azure Machine Learning Experiment and Model from a portal. And create new machine leanring project.
 
-1. [Model Selection](./02.ModelSelection.md)
+1. [Model Selection](./06.ModelSelection.md)
 
     Conduct experiment and find model for your business.
 
-1. [Deploy Model](./03.DeployModel.md)
+1. [Deploy Model](./07.DeployModel.md)
 
     Have a model and schema and containerize them. Push container image to ACR and provision the container image to operationalize score model.
 
-1. [Exercise](./04.Exercise.md)
+1. [Exercise](./08.Exercise.md)
 
     Start a new project with pySpark.
+
+1. [Clenaup](./99.Cleanup.md)
 
 ## Original documents are here:
 
