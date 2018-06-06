@@ -42,8 +42,3 @@ To complete this tutorial, you must have:
 1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/08.pySpark.md" target="_blank">Exercise</a>
 
 1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/99.Cleanup.md" target="_blank">Clenaup</a>
-
-## Original documents are here:
-1. https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-1
-2. https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-2
-3. https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-3 
