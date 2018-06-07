@@ -18,7 +18,7 @@ To complete this tutorial, you must have:
     - Subscription Owner, Subscription Contributor or Resource Group Owner
 - ML service account
 - DSVM 
-    - Size: D4sV3 or higher
+    - Size: D4sV3 or larger
     - Docker installed
     - ML Workbench installed
 
