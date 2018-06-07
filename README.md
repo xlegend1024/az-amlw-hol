@@ -39,6 +39,6 @@ To complete this tutorial, you must have:
 
 1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/07.DeployModel.md"  target="_blank">Deploy Model</a>
 
-1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/08.pySpark.md" target="_blank">Exercise</a>
+1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/08.MNIST_TensorFlow.md" target="_blank">MNIST TensorFlow</a>
 
 1. <a href="https://github.com/xlegend1024/az-amlw-hol/blob/master/99.Cleanup.md" target="_blank">Clenaup</a>
