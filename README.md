@@ -21,6 +21,8 @@ To complete this tutorial, you must have:
     - Size: D4sV3 or larger
     - Docker installed
     - ML Workbench installed
+- Azure Cli
+- Python, Sci-kit learn
 
 
 ## Hand on lab agenda
