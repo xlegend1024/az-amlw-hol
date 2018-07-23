@@ -1,6 +1,6 @@
 # Azure Machine Learning Workbench Hands on Lab
 
-![architecture](./images/arch07.01.png)
+![architecture](./images/arch00.00.png)
 
 ## Prerequisites
 
