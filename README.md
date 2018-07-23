@@ -1,5 +1,7 @@
 # Azure Machine Learning Workbench Hands on Lab
 
+![architecture](./images/arch07.01.png)
+
 ## Prerequisites
 
 If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/free/?WT.mc_id=A261C142F) before you begin.
