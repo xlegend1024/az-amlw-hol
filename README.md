@@ -2,6 +2,9 @@
 
 ![architecture](./images/arch00.00.png)
 
+___
+
+
 ## Prerequisites
 
 If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/free/?WT.mc_id=A261C142F) before you begin.
@@ -13,11 +16,14 @@ To complete this tutorial, you must have:
     - Install Azure Machine Learning Workbench 
 - An Azure Machine Learning Experimentation account
 
+___
+
+
 ## Check list
 
 - Azure Subscription
 - Role 
-    - Subscription Owner, Subscription Contributor or Resource Group Owner
+    - **Subscription Owner**, Subscription Contributor or **Resource Group Owner**
 - ML service account
 - DSVM 
     - Size: D4sV3 or larger
@@ -25,6 +31,8 @@ To complete this tutorial, you must have:
     - ML Workbench installed
 - Azure Cli
 - Python, Sci-kit learn
+
+___
 
 
 ## Hand on lab agenda
