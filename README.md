@@ -1,10 +1,10 @@
-# Azure Machine Learning Workbench will be eetired. 
+# Azure Machine Learning Workbench (Tool) will be retired. 
 
-> This lab is outdated. No longer recommended.  
+> Due to the retirement of the tool, this lab is no longer recommended
+> BUT still Azure Machine Learning Service is available 
 > 
-> 
+> Check new way to build Machine Learning models [Use Python to get started with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-create-workspace-with-python)
 >
-> 
 
 ## Azure Machine Learning Workbench Hands on Lab
 
