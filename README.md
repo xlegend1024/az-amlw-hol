@@ -1,4 +1,12 @@
-# Azure Machine Learning Workbench Hands on Lab
+# Azure Machine Learning Workbench will be eetired. 
+
+> This lab is outdated. No longer recommended.  
+> 
+> 
+>
+> 
+
+## Azure Machine Learning Workbench Hands on Lab
 
 ![architecture](./images/arch00.00.png)
 
